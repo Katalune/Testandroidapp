@@ -36,5 +36,20 @@
       <option name="name" value="/opt/android_sdk/extras/android/m2repository" />
       <option name="url" value="file:/opt/android_sdk/extras/android/m2repository/" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="/opt/android/sdk_D23134735/extras/google/m2repository" />
+      <option name="name" value="/opt/android/sdk_D23134735/extras/google/m2repository" />
+      <option name="url" value="file:/opt/android/sdk_D23134735/extras/google/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="/opt/android/sdk_D23134735/extras/m2repository" />
+      <option name="name" value="/opt/android/sdk_D23134735/extras/m2repository" />
+      <option name="url" value="file:/opt/android/sdk_D23134735/extras/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="/opt/android/sdk_D23134735/extras/android/m2repository" />
+      <option name="name" value="/opt/android/sdk_D23134735/extras/android/m2repository" />
+      <option name="url" value="file:/opt/android/sdk_D23134735/extras/android/m2repository" />
+    </remote-repository>
   </component>
 </project>

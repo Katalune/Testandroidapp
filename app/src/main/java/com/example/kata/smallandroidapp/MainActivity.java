@@ -15,18 +15,15 @@ public class MainActivity extends AppCompatActivity {
 
         final ComponentContext context = new ComponentContext(this);
 
-        Item.create(context)
-                .build();
-
         final Component component = Text.create(context)
-                .text("Hello World")
+                .text("Hello World")   
                 .textSizeDip(50)
                 .build();
+        // Class from arc.abc which is renamed arc.zip
+//        new Some().get();
 
-        setContentView(LithoView.create(context,
-                Demo.create(context)
-                        .two(2)
-                        .help(0)
-                .build()));
+        /*setContentView(LithoView.create(context,
+                Item.create(context)
+                        .build()));*/
     }
 }
